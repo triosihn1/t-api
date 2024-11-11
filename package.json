@@ -1,6 +1,6 @@
 {
   "name": "t-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "trekkers api adalah sebuah api gratis",
   "main": "index.js",
   "scripts": {
